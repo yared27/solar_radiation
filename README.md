@@ -70,8 +70,5 @@ This repository contains data analysis and visualizations for solar radiation da
 
 
 
-## Contribution
 
-Feel free to contribute to this project by submitting issues or pull requests.
-For any questions or suggestions, please contact [your-email@example.com].
 
